@@ -1,0 +1,6 @@
+# Ignorar carpetas y archivos generados por NetBeans
+/build/
+/nbproject/private/
+*.class
+*.jar
+manifest.mf
